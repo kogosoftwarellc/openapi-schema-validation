@@ -1,3 +1,5 @@
+# Note: This repository has moved to https://github.com/kogosoftwarellc/open-api/tree/master/packages/openapi-schema-validation
+
 # openapi-schema-validation [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Coveralls Status][coveralls-image]][coveralls-url]
 > Validate openapi documents.
 
